@@ -20,6 +20,7 @@
             "url": "http://肥猫.com",
             "name": "肥猫"
         },
+        
        
 
         {
@@ -29,6 +30,10 @@
         {
             "url": "http://cdn.kj4247.top/pg/jsm.json",
             "name": "PG线路"
+        },
+        {
+            "url": "http://itvbox.cc/云星日记/",
+            "name": "云星日记"
         },
         {
             "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox/main/api.json",
@@ -61,6 +66,10 @@
         {
             "url": "http://rihou.cc:99/荷城茶秀",
             "name": "荷城茶秀线路"
+        },
+           {
+            "url": "https://fmbox.cc/",
+            "name": "玉玉线路"
         },
         {
             "url": "http://meowtv.top/tv",
