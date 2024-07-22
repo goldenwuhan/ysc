@@ -13,8 +13,12 @@
             "name": "饭太硬推荐"
         },
         {
-            "url":"https://github.moeyy.xyz/https://raw.githubusercontent.com/CandyMuj/ResourceInterface/main/TVBox/candymuj.json",
+            "url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/CandyMuj/ResourceInterface/main/TVBox/candymuj.json",
             "name": "Candymuj"
+        },
+         {
+            "url":"https://tv1.lan2wan.top/candymuj.json",
+            "name": "Candymuj备用"
         },
          {
             "url": "http://肥猫.com",
