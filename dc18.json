@@ -10,7 +10,7 @@
         },
       
         {
-            "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/CandyMuj/ResourceInterface/main/TVBox/candymuj18.json",
+            "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/CandyMuj/ResourceInterface/main/TVBox/candymuj18.json",
             "name": "🚀Candymuj18"
         },
          
@@ -20,12 +20,16 @@
             "name": "🚀githubcr"
         },
         {
-            "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/wwb521/live/main/video.json",
+            "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/wwb521/live/main/video.json",
             "name": "🚀githubcr2"
         },
         {
             "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/bizhangjie/CatVodSpider/main/json/index18.json",
             "name": "🚀githubcr3"
+        },
+         {
+            "url": "https://tv1.lan2wan.top/candymuj18.json",
+            "name": "🚀candymuj18备份"
         }
     ]
 }
