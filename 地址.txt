@@ -1,0 +1,46 @@
+序号	名称	网址	备注
+1	candymuj	https://github.moeyy.xyz/https://raw.githubusercontent.com/CandyMuj/ResourceInterface/main/TVBox/candymuj.json	
+2	candymuj1	https://github.moeyy.xyz/https://raw.githubusercontent.com/CandyMuj/ResourceInterface/main/TVBox/candymuj1.json	
+3	candymuj18	https://github.moeyy.xyz/https://raw.githubusercontent.com/CandyMuj/ResourceInterface/main/TVBox/candymuj18.json	CR
+4	candymuj	https://tv1.lan2wan.top/candymuj.json	同1
+5	candymuj1	https://tv1.lan2wan.top/candymuj1.json	同2
+6	candymuj18	https://tv1.lan2wan.top/candymuj18.json	同3
+7	PG包	http://cdn.kj4247.top/pg/jsm.json	
+8	PG包	https://盒子迷.top/PG/jsm.json	
+9	githubcr	https://mirror.ghproxy.com/https://raw.githubusercontent.com/supermeguo/BoxRes/main/Myuse/catcr.json	CR
+10	万达线路	https://www.macms.pro/box/3.json	
+11	小盒子接口	http://xhztv.top/xhz	
+12	小盒子4K接口	http://xhztv.top/4k.json	
+13	肥猫接口	http://肥猫.com	
+14	饭太硬接口	http://www.饭太硬.com/tv	
+15	摸鱼4K接口	http://我不是.摸鱼儿.top	
+16	失眠的夜接口	http://清清.摸鱼儿.top	
+17	喵影视线路	http://meowtv.top/tv	
+18	巧技线路	https://100km.top/0	
+19	骚零接口	https://xhdwc.tk/0	
+20	俊佬线路	http://home.jundie.top:81/top98.json	
+21	讴歌线路	http://tv.nxog.top/m/111.php?ou=%E6%AC%A7%E6%AD%8C&mz=index2&xl=&jar=index2	
+22	星辰线路	http://8.210.232.168/xc.json	
+23	道长线路	https://pastebin.com/raw/5NHaxyGR	
+24	小马线路	https://szyyds.cn/tv/x.json	
+25	dxawi0线路	https://xhdwc.tk/0	
+26	fongmi	http://fongmi.top	
+27	多仓		
+28	一木	https://mirror.ghproxy.com/https://raw.githubusercontent.com/xianyuyimu/TVBOX-/main/TVBox/%E4%B8%80%E6%9C%A8%E5%A4%9A%E7%BA%BF%E8%B7%AF.json	
+29	小盒子多仓	http://xhztv.top/tvbox.txt	多
+30	小盒子多仓（备）	http://xhztv.top/dc	
+31	摸鱼多仓（主）	http://小鱼干.摸鱼儿.top	
+32	毒盒多仓（主）	https://tv.youdu.fan:666	
+33	毒盒多仓（备）	https://youdu.fan/DC.txt	
+34	运输车多仓	https://weixine.net/api.json	
+35	运输车多仓备	https://cf.weixine.net/api.json	
+36	供源平台		
+37	欧歌	http://tv.nxog.top/	
+38	肥猫	http://肥猫.live/	
+39	饭太硬	http://www.饭太硬.com/	
+40	摸鱼4K	https://moyu.xiyan.life/	
+41	有毒范	https://youdu.fan/	
+42	黎歌	https://www.lige.fit/	
+43	网页	https://www.juwanhezi.com/other/jsonlist	
+44	自维护	https://gitee.com/goldenwuhan/tsts/raw/master/dc.json	
+		https://gitcode.com/goldenwuhan/ysc/raw/main/dc.json	
