@@ -1,129 +1,130 @@
-    {
-        "urls": [
-            {
-                "url": "",
-                "name": "🐊🐊接口更新2024.7.2🐊🐊"
-            },
-            {
-                "url": "",
-                "name": "🍀此接口免费禁止贩卖🍀"
-            },
-            {
-                "url": "http://www.饭太硬.com/tv",
-                "name": "饭太硬推荐"
-            },
-            {
-                "url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/CandyMuj/ResourceInterface/main/TVBox/candymuj.json",
-                "name": "Candymuj"
-            },
-            {
-                "url": "http://tv.999888987.xyz",
-                "name": "王二小放牛娃"
-            },
-        
-            {
-                "url": "http://肥猫.com",
-                "name": "肥猫"
-            },
-            
-        
-
-            {
-                "url": "https://www.macms.pro/box/3.json",
-                "name": "万达线路"
-            },
-            {
-                "url": "http://cdn.kj4247.top/pg/jsm.json",
-                "name": "PG线路"
-            },
-            {
-                "url": "https://itvbox.cc/云星日记",
-                "name": "云星日记"
-            },
-            {
-                "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox/main/api.json",
-                "name": "酷安潇洒哥线路"
-            },
-            {
-                "url": "http://fongmi.top",
-                "name": "FongMI线路"
-            },
-            {
-                "url": "https://jihulab.com/mdxgh/mdxgh/-/raw/main/md.json",
-                "name": "码点"
-            },
-            {
-                "url": "http://tvbox6.com/tv.txt",
-                "name": "看电视呗线路"
-            },
-            {
-                "url": "http://ok321.top/tv",
-                "name": "OK线路"
-            },
+        {
+            "urls": [
                 {
-                "url":"https://tv1.lan2wan.top/candymuj.json",
-                "name": "Candymuj备用"
-            },
-            {
-                "url": "http://我不是.摸鱼儿.top",
-                "name": "摸鱼4K"
-            },
-            {
-                "url": "https://weixine.net/ysc.json",
-                "name": "运输车路"
-            },
-            {
-                "url": "http://rihou.cc:99/荷城茶秀",
-                "name": "荷城茶秀线路"
-            },
-            {
-                "url": "https://fmbox.cc/",
-                "name": "玉玉线路"
-            },
-            {
-                "url": "http://meowtv.top/tv",
-                "name": "喵影视"
-            },
-            {
-                "url": "https://100km.top/0",
-                "name": "骚 0线路"
-            },
-        
-            {
-                "url": "http://清清.摸鱼儿.top",
-                "name": "失眠的夜"
-            },
-            {
-                "url": "https://mirror.ghproxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/js.json",
-                "name": "高天流云JS"
-            },
-            {
-                "url": "https://mirror.ghproxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/XYQ.json",
-                "name": "高天流云 XYQ"
-            },
-            {
-                "url": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/XC.json",
-                "name": "南风线路"
-            },
-            {
-                "url": "https://神器每日推送.tk/pz.json",
-                "name": "神器线路"
-            },
-            {
-                "url": "http://www.lyyytv.cn/yt/yt.json",
-                "name": "影探线路"
-            },
-            {
-                "url": "http://xhztv.top/4k.json",
-                "name": "小盒子4K"
-            },
-            {
-                "url": "https://download.kstore.space/download/2883/nzk/nzk0722.json",
-                "name": "D佬魔改"
-            },
-            {
-                "url": "http://dxawi.github.io/0/0.json",
-                "name": "dxawi线路"
-            }
-        ]
-    }
+                    "url": "",
+                    "name": "🐊🐊接口更新2024.8.4🐊🐊"
+                },
+
+                {
+                    "url": "http://www.饭太硬.com/tv",
+                    "name": "饭太硬推荐"
+                },
+                {
+                    "url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/CandyMuj/ResourceInterface/main/TVBox/candymuj.json",
+                    "name": "Candymuj"
+                },
+                {
+                    "url": "http://tv.999888987.xyz",
+                    "name": "王二小放牛娃"
+                },
+            
+                {
+                    "url": "http://肥猫.com",
+                    "name": "肥猫"
+                },
+                {
+                    "url": "https://git.acwing.com/iduoduo/orange/-/raw/main/jsm.json",
+                    "name": "PG本地包"
+                },
+                {
+                    "url": "https://gitlab.com/duomv/dzhipy/-/raw/main/index.json",
+                    "name": "道长"
+                },
+            
+
+                {
+                    "url": "https://www.macms.pro/box/3.json",
+                    "name": "万达线路"
+                },
+                {
+                    "url": "http://cdn.kj4247.top/pg/jsm.json",
+                    "name": "PG线路"
+                },
+                {
+                    "url": "https://itvbox.cc/云星日记",
+                    "name": "云星日记"
+                },
+                {
+                    "url": "https://raw.gitmirror.com/PizazzGY/TVBox/main/api.json",
+                    "name": "酷安潇洒哥线路"
+                },
+                {
+                    "url": "http://fongmi.top",
+                    "name": "FongMI线路"
+                },
+                {
+                    "url": "https://jihulab.com/mdxgh/mdxgh/-/raw/main/md.json",
+                    "name": "码点"
+                },
+               
+                {
+                    "url": "http://ok321.top/tv",
+                    "name": "OK线路"
+                },
+                    {
+                    "url":"https://tv1.lan2wan.top/candymuj.json",
+                    "name": "Candymuj备用"
+                },
+                {
+                    "url": "http://我不是.摸鱼儿.top",
+                    "name": "摸鱼4K"
+                },
+                {
+                    "url": "https://weixine.net/ysc.json",
+                    "name": "运输车路"
+                },
+                {
+                    "url": "http://rihou.cc:99/荷城茶秀",
+                    "name": "荷城茶秀线路"
+                },
+                {
+                    "url": "https://fmbox.cc/",
+                    "name": "玉玉线路"
+                },
+                {
+                    "url": "http://meowtv.top/tv",
+                    "name": "喵影视"
+                },
+                {
+                    "url": "https://100km.top/0",
+                    "name": "骚 0线路"
+                },
+            
+                {
+                    "url": "http://清清.摸鱼儿.top",
+                    "name": "失眠的夜"
+                },
+                {
+                    "url": "https://mirror.ghproxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/js.json",
+                    "name": "高天流云JS"
+                },
+                {
+                    "url": "https://mirror.ghproxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/XYQ.json",
+                    "name": "高天流云 XYQ"
+                },
+                {
+                    "url": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/XC.json",
+                    "name": "南风线路"
+                },
+                {
+                    "url": "https://神器每日推送.tk/pz.json",
+                    "name": "神器线路"
+                },
+                {
+                    "url": "http://www.lyyytv.cn/yt/yt.json",
+                    "name": "影探线路"
+                },
+                {
+                    "url": "http://xhztv.top/4k.json",
+                    "name": "小盒子4K"
+                },
+                {
+                    "url": "https://download.kstore.space/download/2883/nzk/nzk0722.json",
+                    "name": "D佬魔改"
+                },
+                {
+                    "url": "http://dxawi.github.io/0/0.json",
+                    "name": "dxawi线路"
+                }
+            ]
+        }
