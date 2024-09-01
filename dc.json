@@ -72,6 +72,11 @@
                     "url": "http://120.79.4.185/dz.json",
                     "name": "码点2"
                 },
+                 {
+                    "url": "https://gitee.com/Atvbox/tv/raw/master/bhzs.json",
+                    "name": "宝盒单仓"
+                },
+                
                
                 {
                     "url": "http://ok321.top/tv",
