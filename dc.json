@@ -1,7 +1,7 @@
         {
             "urls": [
                 {
-                    "url": "",
+                    "url": "ttp://www.饭太硬.com/tv",
                     "name": "🐊🐊接口更新2024.8.4🐊🐊"
                 },
 
@@ -150,6 +150,42 @@
                 {
                     "url": "http://dxawi.github.io/0/0.json",
                     "name": "dxawi线路"
-                }
+                },
+                    {
+      "url": "https://gitee.com/Atvbox/tv/raw/master/bhzs.json",
+      "name": "💗宝盒助手"
+    },
+    {
+      "url": "https://gitee.com/JKzb/bh/raw/master/BHapp.json",
+      "name": "💗宝盒app"
+    },
+    {
+      "url": "https://gitee.com/JKzb/BHapp/raw/master/tvkj.json",
+      "name": "💗天微科技"
+    },
+    {
+      "url": "https://gitee.com/JKzb/TX/raw/master/WO.json",
+      "name": "💗玩偶软件"
+    },
+    {
+      "url": "https://gitee.com/JKzb/feimao/raw/master/BHFM.json",
+      "name": "💗肥猫宝贝"
+    },
+    {
+      "url": "https://gitee.com/JKzb/FTY/raw/master/BHFTY.json",
+      "name": "💗饭佬太硬"
+    },
+    {
+      "url": "https://gitee.com/JKzb/my/raw/master/moyu.json",
+      "name": "💗我是摸鱼"
+    },
+    {
+      "url": "http://tvbox.稳定接口.com",
+      "name": "💗V哥接口"
+    },  
+    {
+      "url": "https://gitlab.com/duomv/dzhipy/-/raw/main/index.json",
+      "name": "💗道长线路"
+    } 
             ]
         }
