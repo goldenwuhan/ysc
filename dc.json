@@ -120,7 +120,7 @@
                     "name": "失眠的夜"
                 },
                 {
-                    "url": "hhttps://ghp.ci/raw.githubusercontent.com/gaotianliuyun/gao/master/js.json",
+                    "url": "https://ghp.ci/raw.githubusercontent.com/gaotianliuyun/gao/master/js.json",
                     "name": "高天流云JS"
                 },
                 {
@@ -150,7 +150,20 @@
                 {
                     "url": "http://dxawi.github.io/0/0.json",
                     "name": "dxawi线路"
+                },
+                {    "url":"https://gitee.com/tv888/tv/raw/master/svip.json",
+                     "name":"天微科技"
+
+                },
+                {    "url":"https://gitee.com/tv888/fl/raw/master/svip.json",
+                     "name":"飞龙影视"
+
+                },
+                {    "url":"https://gitlab.com/tvtg/qx/-/raw/main/svip.json",
+                     "name":"七星影视"
+
                 }
+                
   
             ]
         }
