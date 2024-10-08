@@ -31,8 +31,12 @@
                     "name": "肥猫"
                 },
                 {
-                    "url": "https://git.acwing.com/iduoduo/orange/-/raw/main/jsm.json",
+                    "url": "http://www.xueximeng.com/p/jsm.json",
                     "name": "PG本地包"
+                },
+                 {
+                    "url": "http://www.xueximeng.com/z/FongMi.json",
+                    "name": "zx本地包"
                 },
                 {
                     "url": "https://gitlab.com/duomv/dzhipy/-/raw/main/index.json",
