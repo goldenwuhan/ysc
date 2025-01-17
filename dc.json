@@ -26,9 +26,12 @@
                     "name": "4K测试接口"
                 },
             
-            
+            {
+                    "url": "https://4708.kstore.space/omg/hollo.json",
+                    "name": "时光"
+                },
                 {
-                    "url": "http://我不是.肥猫.live/接口禁止贩卖",
+                    "url": "http://ceshi.xn--z7x900a.com/PandaQ",
                     "name": "肥猫"
                 },
                  {
@@ -46,6 +49,10 @@
                         {
                         "url": "https://7213.kstore.vip/吃猫的鱼",
                         "name": "吃鱼的猫"
+                    },
+                     {
+                        "url": "http://我不是.摸鱼儿.com",
+                        "name": "摸鱼儿"
                     },
                
                
