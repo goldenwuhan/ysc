@@ -1,0 +1,11 @@
+{
+
+"lives":[
+
+{"name":"ITV1","type":0,"url":"http://helix.xin:50001/Sub?type=m3u","epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
+{"name":"ITV2","type":0,"url":"http://iptv.shabb.cn/Sub?type=m3u","playerType":1,"epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
+{"name":"ITV3","type":0,"url":"https://itv.zhangwl.space/Sub?type=m3u","epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
+{"name":"ITV4","type":0,"url":"https://itv.scy.ink/Sub?type=m3u","epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
+{"name":"ITV5","type":0,"url":"https://tv.coderlin.xyz/Sub?type=m3u,"epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"}
+]
+}
